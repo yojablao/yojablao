@@ -28,10 +28,10 @@ I am a Software Engineering student at **1337 School (42 Network)** with a deep 
 
 ### 📊 GitHub Stats
 <!-- These are dynamic widgets that will automatically update based on your GitHub activity -->
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yojablao&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yojablao&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yojablao&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yojablao&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ### 📫 Let's Connect
 *   📧 **Email:** 1337youssef@gmail.com
