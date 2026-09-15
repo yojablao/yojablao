@@ -25,10 +25,12 @@ I am a Software Engineering student at **1337 School (42 Network)** with a deep 
 *   **[ft_ping-pong](https://github.com/yojablao/ft_ping_pong):** A production-ready real-time multiplayer application with AI opponents, Socket.IO, and a 6-container Docker stack (Nginx, Express, Next.js, Prometheus, Grafana).
 *   **[ft_irc](https://github.com/medatlhs/Internet-Realy-Chat-Server):** An RFC-compliant Internet Relay Chat server built in C++98, handling 100+ concurrent clients via non-blocking POSIX sockets and I/O multiplexing.
 *   **[miniRT](https://github.com/thamirmohcine/minirt):** A 3D ray-tracing graphics engine written in C, rendering complex geometric intersections and lighting.
+
 ### 📊 GitHub Stats
-<!-- These are dynamic widgets that will automatically update based on your GitHub activity -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yojablao&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yojablao&layout=compact&theme=radical&hide_border=true)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yojablao&show_icons=true&theme=radical&hide_border=true)](https://github.com/yojablao)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yojablao&layout=compact&theme=radical&hide_border=true)](https://github.com/yojablao)
 
 ### 📫 Let's Connect
 *   📧 **Email:** 1337youssef@gmail.com
